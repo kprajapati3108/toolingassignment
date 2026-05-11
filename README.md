@@ -1,31 +1,31 @@
 # Toolingassignment
 
-#VSCode
+# VSCode
 ![VSCode](VSCode.png)
 
-#Windows Terminal
+# Windows Terminal
 ![Windows Terminal](WindowsTerminal.png)
 
-#Git
+# Git
 ![Git](git.png)
 
-#Ohmygit
+# Ohmygit
 ![Oh My Git](ohmygit.png)
 
-#Packer
+# Packer
 ![Packer](packer.png)
 
-#Powershell
+# Powershell
 ![Powershell](powershell.png)
 
-#Terminal
+# Terminal
 ![Terminal](terminal.png)
 
-#Vagrant
+# Vagrant
 ![Vagrant](vagrant.png)
 
-#VirtualBox
+# VirtualBox
 ![Virtual Box](virtualbox.png)
 
-#Winget
+# Winget
 ![Winget](winget.png)
